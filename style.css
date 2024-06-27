@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "customFont";
+  src: url("/assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("ttf"),
+    url("/assets/fonts/young-serif/YoungSerif-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "customFont", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 5px;
+  width: 100%;
+}
+.img_header {
+  border-radius: 25px;
+  margin-bottom: 10px;
+}
+
+.inner_text {
+  text-indent: 10px;
+  text-align: justify;
+  letter-spacing: 2px;
+  line-height: 25px;
+  padding: 20px;
+}
+
+.prep_section {
+  background-color: #f1ebf1;
+  padding: 25px;
+}
+
+.prep_section_title {
+  color: brown;
+}
+
+span {
+  font-weight: bold;
+}
+
+.section_title {
+  color: #ff7b46;
+}
+
+.all_section {
+  padding: 25px;
+  border-bottom: 1px solid rgb(129, 122, 122);
+}
+
+.table_section {
+  margin-top: 10px;
+  width: 60%;
+  margin: auto;
+}
+td {
+  color: #ff7b46;
+  /* border-style: outset; */
+  border-bottom: 1px solid rgb(110, 110, 110);
+}
