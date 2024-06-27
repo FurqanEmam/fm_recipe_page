@@ -4,7 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://github.com/FurqanEmam/fm_recipe_page)
+- Live Site URL: [Live site URL here](https://github.com/FurqanEmam/fm_recipe_page)
 
 ### Built with
 
@@ -13,4 +13,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/FurqanEmam)
+- Frontend Mentor - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/FurqanEmam)
